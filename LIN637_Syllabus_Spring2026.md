@@ -143,23 +143,26 @@ The only official prerequisite is Computational Linguistics 1 (Lin
 
 The final course grade depends on the following work.
 
-  Assignments                  50%
-  ---------------------------- -----
-  Final Project Presentation   10%
-  Final Project                40%
+| Item                       | Percent of total |
+|:---------------------------|:-----------------|
+| Participation              | 15%              |
+| Assignments                | 50%              |
+| Final Project Presentation | 10%              |
+| Final Project              | 25%              |
 
--   **Assignments**
+-   **Participation** You are expected to attend class. Asking and
+    answereing questions during class is encouraged. If you are unable
+    to attend a class, please let me know as soon as you can.
 
-    - Assignments will mostly be short programming assignments in
-      Haskell and will be submitted through github.
+-   **Assignments** Assignments will mostly be short programming
+      assignments in Haskell and will be submitted through github.
 
 -   **Project Presentation** You will present the current state of
- your project in 20 minutes during the last two weeks of class.  Your
- presentation should be accompanied by either a handout or slides.
+    your project in 20 minutes during the last two weeks of class.
+    Your presentation should be accompanied by either a handout or
+    slides.
 
--   **Project**
-
-    -   You will conduct a project in this class and turn it in.
+-   **Project** You will conduct a project in this class and turn it in.
 
     -   Projects may be any of the following:
 
