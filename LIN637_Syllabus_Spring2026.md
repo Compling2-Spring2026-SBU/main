@@ -25,6 +25,11 @@ informed perspective. The question is less about how to use computers
 for language-related tasks, but more about how language can be
 conceptualized as a computational problem.
 
+## Prerequisites
+
+The only official prerequisite is Computational Linguistics 1 (LIN
+537), or permission of the instructor.
+
 ## List of topics
 
 -   *Open Problems and Questions*
@@ -115,31 +120,26 @@ conceptualized as a computational problem.
 
 This schedule is tentative and subject to change.
 
-  Week   Dates         Topics
-  ------ ------------- -----------------------------------------------------
-  01     01/27 29      Intro + Defining Strings and Trees
-  02     02/03 05      Computability and Algorithms over Strings and Trees
-  03     02/10 12      Formal Grammars and Regexs
-  04     02/17 19      Intro to FSMs (DFA/DFT for string/trees)
-  05     02/24 26      Non-determinism
-  06     03/03 05      Combining FSMs
-  06     03/10 12      Catch-up time
-  07     03/17 19      SPRING BREAK
-  08     03/24 26      LTK and Plebby Expressions
-  09     03/31 04/02   Algebraic Classification of string languages
-  10     04/07 09      Algebraic Classification of string functions
-  11     04/14 16      2way FSMs
-  12     04/21 23      TBD
-  13     04/28 30      Presentations
-  14     05/06 08      Presentations
+| Week | Dates       | Topics                                              |
+|:----:|:-----------:|:----------------------------------------------------|
+| 01   | 01/27 29    | Intro + Defining Strings and Trees                  |
+| 02   | 02/03 05    | Computability and Algorithms over Strings and Trees |
+| 03   | 02/10 12    | Formal Grammars and Regexs                          |
+| 04   | 02/17 19    | Intro to FSMs (DFA/DFT for string/trees)            |
+| 05   | 02/24 26    | Non-determinism                                     |
+| 06   | 03/03 05    | Combining FSMs                                      |
+| 06   | 03/10 12    | Catch-up time                                       |
+| 07   | 03/17 19    | SPRING BREAK                                        |
+| 08   | 03/24 26    | LTK and Plebby Expressions                          |
+| 09   | 03/31 04/02 | Algebraic Classification of string languages        |
+| 10   | 04/07 09    | Algebraic Classification of string functions        |
+| 11   | 04/14 16    | 2way FSMs                                           |
+| 12   | 04/21 23    | TBD                                                 |
+| 13   | 04/28 30    | Presentations                                       |
+| 14   | 05/06 08    | Presentations                                       |
 
 
-# Prerequisites=
-
-The only official prerequisite is Computational Linguistics 1 (Lin
-537) or prior programming experience.
-
-# Graded Component
+# Grades
 
 The final course grade depends on the following work.
 
@@ -199,7 +199,6 @@ The final course grade depends on the following work.
 
 
 # Additional Information
-
 
 #### Readings
 
