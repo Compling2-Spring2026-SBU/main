@@ -116,7 +116,7 @@ conceptualized as a computational problem.
 This schedule is tentative and subject to change.
 
   Week   Dates         Topics
-  ------ ------------- -----------------------------------------------
+  ------ ------------- -----------------------------------------------------
   01     01/27 29      Intro + Defining Strings and Trees
   02     02/03 05      Computability and Algorithms over Strings and Trees
   03     02/10 12      Formal Grammars and Regexs
