@@ -17,7 +17,7 @@
 ### Tue 27 Jan 2026
 
 - Today we introduced the course and went over the syllabus.
-  1. {strings, trees} x {finite state acceptors/transducers} x
+  1. {strings, trees} x {acceptors, transducers} x
     {determinism, non-determinism} + algebraic classifications +
     natural language phonology, morphology, syntax
   2. [intro slides](materials/day1slides.pdf)
