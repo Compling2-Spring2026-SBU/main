@@ -17,7 +17,22 @@
 ### Tue 27 Jan 2026
 
 - Today we introduced the course and went over the syllabus.
+  1. {strings, trees} x {finite state acceptors/transducers} x
+    {determinism, non-determinism} + algebraic classifications +
+    natural language phonology, morphology, syntax
+  2. [intro slides](materials/day1slides.pdf)
+  3. Supplemental readings (not required, but may provide useful perspective)
+    - [Cheng 2015](readings/Cheng2015Chaps1-2.pdf) on abstraction
+    - [Cormen 2013](readings/Cormen2013Chaps1-2.pdf) on algorithms
+    - [Garey and Johnson 1979](readings/GareyJohnson1979Chap1.pdf) on time complexity
+    - [Stabler 2019](readings/Stabler2019.pdf) on the importance of trees for syntax
+	- [Graf 2022](https://doi.org/10.1515/tl-2022-2037) on subregular linguistics
+	- [Heinz 2025](readings/Heinz2025.pdf) on subregular phonology
+	
 - For Thursday:
+  - Review chapter 1 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf) on sets, relations, and
+    functions.
   - Please make sure you have a github account set up and send me your
 	username so I can add you to the "Compling2-Spring2026-SBU" github
 	organization.
