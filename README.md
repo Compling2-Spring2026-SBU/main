@@ -14,6 +14,26 @@
 
 ## Class Log
 
+### Th 29 Jan 2026
+
+- Today had some Q\&A about Chapter 1 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf).
+- We then discussed `ghci` and `ghc`, as well as `.lhs` and `.hs`
+  haskell file, using this very brief [getting started
+  guide](materials/haskell01.md).
+- We then introduced types in Haskell (Chapter 2 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf).). We discussed types,
+    polymorphic types, type classes, and type constructors.
+- Then we provided a recursive definition of strings, as well as an
+  accompanying definition of the length of strings from the beginning
+  of chapter 3 of the [course notes](materials/TCL.pdf). We observed
+  how the structure of the computation of length parallels the
+  recursive data structure.
+- For Tuesday please do exercise 1 in Chapter 2 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf) following the more
+    specific directions in the [HW01
+    repo](https://github.com/Compling2-Spring2026-SBU/hw01).
+
 ### Tue 27 Jan 2026
 
 - Today we introduced the course and went over the syllabus.
