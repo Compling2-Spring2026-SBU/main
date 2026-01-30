@@ -8,7 +8,7 @@
 
 ### Course
 - TuTh 12:30-13:50 in the Comp Ling Lab in SBS N250
-- Office Hours TBD
+- Office Hours MW 4:30-6pm in IACS L160
 - [Syllabus](LIN637_Syllabus_Spring2026.md)
 - [Useful Links](UsefulLinks.md) for github, markdown, LaTeX, and Haskell
 
