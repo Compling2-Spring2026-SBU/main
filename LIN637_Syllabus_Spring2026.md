@@ -123,11 +123,11 @@ This schedule is tentative and subject to change.
 | Week | Dates       | Topics                                              |
 |:----:|:-----------:|:----------------------------------------------------|
 | 01   | 01/27 29    | Intro + Defining Strings and Trees                  |
-| 02   | 02/03 05    | Computability and Algorithms over Strings and Trees |
-| 03   | 02/10 12    | Formal Grammars and Regexs                          |
-| 04   | 02/17 19    | Intro to FSMs (DFA/DFT for string/trees)            |
-| 05   | 02/24 26    | Non-determinism                                     |
-| 06   | 03/03 05    | Combining FSMs                                      |
+| 02   | 02/03 05    | Simple Algorithms over Strings and Trees            |
+| 03   | 02/10 12    | Intro to FSMs (DFA/DFT for string/trees)            |
+| 04   | 02/17 19    | Non-determinism                                     |
+| 05   | 02/24 26    | Combining FSMs                                      |
+| 06   | 03/03 05    | Formal Grammars and Regexs                          |
 | 06   | 03/10 12    | Catch-up time                                       |
 | 07   | 03/17 19    | SPRING BREAK                                        |
 | 08   | 03/24 26    | LTK and Plebby Expressions                          |
