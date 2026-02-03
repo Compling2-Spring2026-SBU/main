@@ -12,6 +12,12 @@
 - [Syllabus](LIN637_Syllabus_Spring2026.md)
 - [Useful Links](UsefulLinks.md) for github, markdown, LaTeX, and Haskell
 
+### TAs
+- Jacob Rowen: jacob.rowen@stonybrook.edu
+    - Office Hours TuTh 4-5pm in the Seminar Room or by request
+- Han Li: han.li.4@stonybrook.edu
+    - Office Hours by request
+
 ## Class Log
 
 ### Th 29 Jan 2026
