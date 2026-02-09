@@ -20,6 +20,43 @@
 
 ## Class Log
 
+
+### Tu 10 Feb
+
+### Th 05 Feb
+
+- We defined functions `addOne` and `timesTwo` for strings (Exercise
+  18 in chapter 3 of the [course notes](materials/TCL.pdf)).
+- We defined functions `sum` and `product` for strings (Exercise 19 in
+  chapter 3 of the [course notes](materials/TCL.pdf))
+- We generalized those functions to the higher order functions `map`
+  and `fold` respectively. (Note this `fold` is called `foldr` in
+  Haskell.)
+  - `map :: (a -> b) -> Seq a -> Seq b`
+  - `fold :: (a -> b -> b) -> b -> Seq a -> b`
+- We showed:
+  - `addOne = map (+1)`
+  - `timesTwo = map (*2)`
+  - `sum = fold (+) 0`
+  - `product = fold (*) 1`
+- We defined trees as recursive data structures, and reviewed how the
+  size of a tree can be computed recursively.
+- For next Tuesday, please complete
+  [HW03](https://github.com/Compling2-Spring2026-SBU/hw03). You don't
+  need to define `map` or `fold` here. It is fine to provide direct
+  working definitions of the requested functions.
+
+### Tu 03 Feb
+
+- We discussed exercise 1 of Chapter 2 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf).
+- We reviewed the definition of strings in Chapter 3 of the [course
+  notes](materials/TCL.pdf).
+- We discussed how functions like `replicate`, `take`, and `drop`
+  can be defined recursively.
+- For Thursday, please complete
+  [HW02](https://github.com/Compling2-Spring2026-SBU/hw02).
+
 ### Th 29 Jan 2026
 
 - Today had some Q\&A about Chapter 1 of [Sanella et
