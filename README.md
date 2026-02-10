@@ -23,6 +23,17 @@
 
 ### Tu 10 Feb
 
+- We had a Q&A about chapter 3 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf). 
+- We discussed HW03.
+- We introduced Haskell list notation.
+- We defined some additional functions on trees.
+- For next Tuesday 
+  - Complete [HW04](https://github.com/Compling2-Spring2026-SBU/hw04).
+  - Read Chapter 5 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf) on Lists and
+    Comprehensions.
+
 ### Th 05 Feb
 
 - We defined functions `addOne` and `timesTwo` for strings (Exercise
