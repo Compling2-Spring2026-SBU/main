@@ -20,6 +20,18 @@
 
 ## Class Log
 
+### Th 12 Feb
+
+- We had a Q&A about [HW04](https://github.com/Compling2-Spring2026-SBU/hw04).
+- We had a Q&A about chapter 5 of [Sanella et
+    al. 2021](readings/SannellaEtAl2021.pdf).
+- For next Tuesday, please complete
+  [HW05](https://github.com/Compling2-Spring2026-SBU/hw05) oh Hawaiian
+  phonotactics.
+- We introduced deterministic, finite-state acceptors (Chapter 4,
+  beginning only) and deterministic, finite-state, bottom-up tree
+  acceptors (Chapter 5, beginning only) from the the [course
+  notes](materials/TCL.pdf)).
 
 ### Tu 10 Feb
 
