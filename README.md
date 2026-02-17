@@ -20,12 +20,14 @@
 
 ## Class Log
 
-<!-- - We had a Q&A about chapter 5 of [Sanella et -->
-<!--     al. 2021](readings/SannellaEtAl2021.pdf). -->
-<!-- - For next Tuesday, please complete -->
-<!--   [HW05](https://github.com/Compling2-Spring2026-SBU/hw05) oh Hawaiian -->
-<!--   phonotactics. -->
 
+### Tu 17 Feb
+
+- We had a Q&A about chapter 5 of [Sanella et al. 2021](readings/SannellaEtAl2021.pdf).
+- We discussed deterministic string and bottom up tree transducers, which are the first parts of Chapters 6 and 7 of the [course notes](materials/TCL.pdf). 
+- For Thursday, please complete [HW05](https://github.com/Compling2-Spring2026-SBU/hw05) on Hawaiian phonotactics.
+- For Thursday, please read Chapter 12 of [Sanella et
+  al. 2021](readings/SannellaEtAl2021.pdf) on Higher-Order Functions. Focus on the later section regarding folds and partial application.
 
 ### Th 12 Feb
 
