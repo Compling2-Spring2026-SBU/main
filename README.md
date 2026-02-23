@@ -20,14 +20,38 @@
 
 ## Class Log
 
+### Tu 24 Feb
+
+- Class is canceled because of the blizzard "of the century."
+- [HW06](https://github.com/Compling2-Spring2026-SBU/hw06) is now due
+  Thursday Feb 26.
+
+### Th 19 Feb
+
+- We discussed higher order functions, partial application, and
+  nameless functions using lambda expressions.
+- We finished our intro discussion of deterministic string tree
+  transducers by discussing some examples.
+- For Tuedsay, please complete
+  [HW06](https://github.com/Compling2-Spring2026-SBU/hw06) on
+  implementing deterministic string and tree acceptors.
+- For Tuesday, please read Chapter 13 of [Sanella et
+  al. 2021](readings/SannellaEtAl2021.pdf) on further abstractions.
+  
 
 ### Tu 17 Feb
 
-- We had a Q&A about chapter 5 of [Sanella et al. 2021](readings/SannellaEtAl2021.pdf).
-- We discussed deterministic string and bottom up tree transducers, which are the first parts of Chapters 6 and 7 of the [course notes](materials/TCL.pdf). 
-- For Thursday, please complete [HW05](https://github.com/Compling2-Spring2026-SBU/hw05) on Hawaiian phonotactics.
+- We had a Q&A about chapter 5 of [Sanella et
+  al. 2021](readings/SannellaEtAl2021.pdf).
+- We discussed deterministic string tree transducers, which are the
+  first parts of Chapters 6 of the [course notes](materials/TCL.pdf).
+- For Thursday, please complete
+  [HW05](https://github.com/Compling2-Spring2026-SBU/hw05) on Hawaiian
+  phonotactics.
 - For Thursday, please read Chapter 12 of [Sanella et
-  al. 2021](readings/SannellaEtAl2021.pdf) on Higher-Order Functions. Focus on the later section regarding folds and partial application.
+  al. 2021](readings/SannellaEtAl2021.pdf) on Higher-Order
+  Functions. Focus on the later section regarding folds and partial
+  application.
 
 ### Th 12 Feb
 
