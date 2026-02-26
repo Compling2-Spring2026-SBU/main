@@ -20,6 +20,31 @@
 
 ## Class Log
 
+
+### Th 26 Feb
+
+- We reviewed deterministic string transducers by studying a machine
+  that nasalizes vowels before nasal consonants. This led us to
+  introduce the notion of 'pausing/holding' output until the following
+  context is read, which disambiguates what output to produce.
+- We considered the issue that arises for a process intended to
+  nasalize a span of vowels of arbitrarily length prior to a nasal
+  vowel.
+- We explained how deterministic transducers can process strings
+  either left-to-right or right-to-left.
+  - An unbounded series of changes triggered by a left context is
+  possible to express with a left-to-right DFST.
+  - An unbounded series of changes triggered by a right context is
+  possible to express with a right-to-left DFST,
+- We then defined deterministic bottom-up tree transducers, which
+  utilize the concepts of trees with variables in the leaves and tree
+  substitution into those variables. We looked at two examples, the
+  latter of which was a simplified version of wh-movement.
+- For Tuesday, please do [HW07](https://github.com/Compling2-Spring2026-SBU/hw07).
+- Also we will discuss Chapter 13 of [Sanella et
+  al. 2021](readings/SannellaEtAl2021.pdf) on further abstractions
+  next Tuesdady as well.
+
 ### Tu 24 Feb
 
 - Class is canceled because of the blizzard "of the century."
