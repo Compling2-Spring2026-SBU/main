@@ -20,6 +20,34 @@
 
 ## Class Log
 
+### Tu 10 Mar
+
+- We reviewed solutions to the RE expression for "all and only those
+  strings with no 'aa' substring."
+- We reviewed the kinds of expression grammars from last time.
+- We introduced plebby expressions (pages 15-16 in the [course
+  notes](materials/TCL.pdf)).
+- Read [Lambert
+  forthcoming](readings/Lambert-2025-Multier-Phonotactics.pdf) for
+  Tuesday after break. [Supplementary materials are
+  here](materials/Lambert-2025-Multier-Phonotactics-extras.zip).
+
+### Th 05 Mar
+
+- We discussed chapter 13 on higher order functions.
+- For next Thursday, please do
+  [HW08](https://github.com/Compling2-Spring2026-SBU/hw08) on
+  deterministic bottom up tree transducers.
+- We introduced the original regular expression, cat-union
+  expressions, generalized regular expressions and star-free
+  expressions (pages 13-15 in the [course notes](materials/TCL.pdf)).
+- We discussed the theorems that relate the expressivity of these
+  formalisms.
+
+### Tu 03 Mar
+
+- We discussed HW07.
+- We reviewed deterministic bottom up tree transducers.
 
 ### Th 26 Feb
 
