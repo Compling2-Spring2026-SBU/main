@@ -30,7 +30,7 @@
 - Read [Lambert
   forthcoming](readings/Lambert-2025-Multier-Phonotactics.pdf) for
   Tuesday after break. [Supplementary materials are
-  here](materials/Lambert-2025-Multier-Phonotactics-extras.zip).
+  here](readings/Lambert-2025-Multier-Phonotactics-extras.zip).
 
 ### Th 05 Mar
 
