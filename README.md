@@ -20,6 +20,21 @@
 
 ## Class Log
 
+### Tu 24 Mar
+
+- We discussed Strictly Local, Definite, Reverse Definite, and
+  Generalized Definite classes from [Lambert
+  forthcoming](readings/Lambert-2025-Multier-Phonotactics.pdf)
+- We studied how to minimize a DFA.
+- We studied how to take a DFA and get the DFA for its complement.
+  - first complete it then switch final states
+
+### Spring Break
+
+### Th 12 Mar
+
+- We continued to discuss plebby expressions.
+
 ### Tu 10 Mar
 
 - We reviewed solutions to the RE expression for "all and only those
