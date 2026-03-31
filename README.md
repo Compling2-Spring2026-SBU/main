@@ -31,7 +31,7 @@
   interpreted as strings on the one hand, and as DFSA on the other.
 - We looked at some basic code for DFSA using the [record
   syntax](https://learnyouahaskell.github.io/making-our-own-types-and-typeclasses.html#record-syntax)
-  from [HW10]()
+  from [HW09](https://github.com/Compling2-Spring2026-SBU/hw09)
 - We discussed minimizaton of DFSA, NFSA, and determinization of NFSA,
   and how to trim FSA (see Definition 16 on page 37 of [the course
   notes](materials/TCL.pdf)).
