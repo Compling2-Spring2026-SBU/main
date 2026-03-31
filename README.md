@@ -20,14 +20,40 @@
 
 ## Class Log
 
+### Tu 31 Mar
+
+- We reviewed the logical operations of negation, conjunction, and
+  disjunction, and how they relate to complement, intersection, and union.
+- We designed a logical language (piecewise local like expressions)
+  for the Locally Testable and Piecewise Testable languages
+- We explained how it could be implemented with the operations we have
+  studied. And how the expressions have a tree structure that could be
+  interpreted as strings on the one hand, and as DFSA on the other.
+- We looked at some basic code for DFSA using the [record
+  syntax](https://learnyouahaskell.github.io/making-our-own-types-and-typeclasses.html#record-syntax)
+  from [HW10]()
+- We discussed minimizaton of DFSA, NFSA, and determinization of NFSA,
+  and how to trim FSA (see Definition 16 on page 37 of [the course
+  notes](materials/TCL.pdf)).
+
+
+### Th 26 Mar
+
+- We studied how to take a DFSA and make it complete.
+- We studied how to find the complement of a DFSA and how to find the
+  union and intersection of two DFSA using the product construction.
+- The operations for DBFTA are the same. There is one issue with
+  respect to complement, however.
+- The complement of a DBFTA cannot be made with respect to Σᵀ. This is
+  because Σᵀ has no bound on the branching degree of its trees. The
+  complement of a DBFTA cannot be made with respect to Σᵀⁿ (⊂ Σᵀ) of
+  trees limited to ones whose maximal branching degrees less than `n`.
+
 ### Tu 24 Mar
 
 - We discussed Strictly Local, Definite, Reverse Definite, and
   Generalized Definite classes from [Lambert
   forthcoming](readings/Lambert-2025-Multier-Phonotactics.pdf)
-- We studied how to minimize a DFA.
-- We studied how to take a DFA and get the DFA for its complement.
-  - first complete it then switch final states
 
 ### Spring Break
 
