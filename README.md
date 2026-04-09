@@ -20,6 +20,25 @@
 
 ## Class Log
 
+### Th 09 Apr
+
+- We finished our discussion of minimizaton of DFSA.
+- For next Thursday, please do
+  [HW08](https://github.com/Compling2-Spring2026-SBU/hw09) on DFSA
+  completion, complement, union, and intersection.
+
+### Tu 07 Apr
+
+- We discussed determinization of NFSA, and minimizaton of DFSA [the
+  course notes](materials/TCL.pdf)).
+- [Kozen 1997](materials/Kozen1997.pdf) is an additional resource on
+  determinization and minimization (see chapters 5,6 and 13,14).
+
+### Th 02 Apr
+
+- We introduced NFSA (pages 39-40 in [the course
+  notes](materials/TCL.pdf)).
+
 ### Tu 31 Mar
 
 - We reviewed the logical operations of negation, conjunction, and
@@ -32,9 +51,6 @@
 - We looked at some basic code for DFSA using the [record
   syntax](https://learnyouahaskell.github.io/making-our-own-types-and-typeclasses.html#record-syntax)
   from [HW09](https://github.com/Compling2-Spring2026-SBU/hw09)
-- We discussed minimizaton of DFSA, NFSA, and determinization of NFSA,
-  and how to trim FSA (see Definition 16 on page 37 of [the course
-  notes](materials/TCL.pdf)).
 
 
 ### Th 26 Mar
