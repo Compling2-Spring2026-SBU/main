@@ -24,7 +24,7 @@
 
 - We finished our discussion of minimizaton of DFSA.
 - For next Thursday, please do
-  [HW08](https://github.com/Compling2-Spring2026-SBU/hw09) on DFSA
+  [HW09](https://github.com/Compling2-Spring2026-SBU/hw09) on DFSA
   completion, complement, union, and intersection.
 
 ### Tu 07 Apr
