@@ -22,11 +22,57 @@
 
 ### Tu 21 Apr
 
-- Tier- Definite, Reverse Definite, and Generalized Definite.
-- ISL functions are definite funcions ([Lambert and Heinz
-  2023](https://doi.org/10.7275/Q54B-MG07))
-- Some OSL functions are tier-definite/tier-reverse definite ([Lambert
-  and Heinz 2024](https://doi.org/10.7275/scil.2137))
+- We studies tier-extensions of classes of languages and algrbraic
+  characterizations thereof. A tier is a subset of the alphabet; these
+  are the symbols that are salient. Non-tier symbols are
+  non-salient/inert/irrelevant; they are called _neutral_ in the
+  computer science literature.
+- Given a tier T, the tier projection of a string `a₁a₂...aₙ` is the
+  string `b₁b₂...bₙ` where each `bᵢ` equals `aᵢ` when `aᵢ ∈ T` and
+  equals the empty string when `aᵢ ∈ Σ/T`. Given a tier T, the inverse
+  tier projection of a string `a₁a₂...aₙ` applies arbitrarily many
+  finitely insertions and deletions of neutral symbols to the
+  `a₁a₂...aₙ`. In other words the inverse tier projection of
+  `a₁a₂...aₙ` is the language L such that for any `w ∈ L`, the tier
+  projection of `w` equals the the tier projection of `a₁a₂...aₙ`.
+- The main lessons:
+  1. Any formal class of languages C can be "tierified" to make a new
+     class TC. Given C, TC is the class of languages obtained by
+     taking any `L ∈ C` and any `T ⊆ Σ` and adding the inverse tier
+     projection of `L` to TC.
+  2. Given a minimal DFSA for a language L, the neutral elements never
+     change the state of the DFSA. In other words, they are self-loops
+     on ALL the states. Consequently, they are the _identity_ element
+     in the syntactic semigroup. This provides (in my view) a very
+     natural and sound basis for tiers mathematically.
+  3. If C has an algebraic characterization, then TC has one too. To
+     see whether L belongs to TC, build the syntactic semigroup for L
+     as before. Then remove the identity element from the semigroup
+     (provided no non-neutral elements multiply to it) and check
+     whether the resulting semigroup belongs to C. If so, then L
+     belongs to TC.
+  4. Checking multitier definite is slighlty more complicated. It
+     comes down to wrapping each `x` with variables `s,t` as in `sxt`
+     to ensure that the tier elements are being considered. In any
+     case, key equations are given in [Lambert
+     forthcoming](readings/Lambert-2025-Multier-Phonotactics.pdf) as
+     well as Lambert's disseratation and other resources available at
+     [dakotahlambert.com](https://www.dakotahlambert.com/).
+- We considered two examples.
+  1. We saw that the constraint that words contain at most one stress
+     was Tier-(co/Finite). Logically, it can be expressed as
+     `‌\/{[́σ]%||%<>, [́σ]%||%<́σ>}`.
+  2. We saw that symmetric harmony (such as sibilant harmony in
+     Navajo) can be expressed as Multi-tier-(co/Finite). Logically, it
+     can be expressed as `‌\/{[s]%||%<>, [ʃ]%||%<>}`. This is in
+     addition to its other characterizations as SP and TSL, which are
+     given logically as `/\{~<s, ʃ>, ~<ʃ, s>}` and
+     `/\{~[s,ʃ]<s ʃ>, ~[s,ʃ]<ʃ s>}`, respectively.
+- For next week, please read
+  - ISL functions are definite functions ([Lambert and Heinz
+    2023](https://doi.org/10.7275/Q54B-MG07))
+  - Some OSL functions are tier-definite/tier-reverse definite
+    ([Lambert and Heinz 2024](https://doi.org/10.7275/scil.2137))
 
 ### Th 16 Apr
 
