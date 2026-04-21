@@ -20,6 +20,52 @@
 
 ## Class Log
 
+### Tu 21 Apr
+
+- Tier- Definite, Reverse Definite, and Generalized Definite.
+- ISL functions are definite funcions ([Lambert and Heinz
+  2023](https://doi.org/10.7275/Q54B-MG07))
+- Some OSL functions are tier-definite/tier-reverse definite ([Lambert
+  and Heinz 2024](https://doi.org/10.7275/scil.2137))
+
+### Th 16 Apr
+
+- Following, [Lambert
+  forthcoming](readings/Lambert-2025-Multier-Phonotactics.pdf), we
+  explained that in general many classes of formal languages, but not
+  necessarily all, will have an algebraic characterization. In
+  particular, the syntactic semigroups of the languages belonging to
+  the class will have some property that languages not belonging to
+  the class will not have.
+- These characterizations are expressed in terms of equations that
+  must be satsisfied by every instantion of the variables in the
+  equations with every element in the semigroup.
+- For k-definite languages, the equation is
+  `[sx₁x₂...xₖ=x₁x₂...xₖ]`. Note this has `k+1` variables which means
+  as the `k` increases the check gets very expensive since there `nᵏ`
+  combinations to check when the semigroup has `n`
+  elements.
+- Idempotents are semigroup elements `x` such that `x=xx`.  The
+  "omega" in `x^ω` is an operation that returns the idempotent
+  obtained by multiplying `x` with itself over and over again. In
+  every finite semigroup, for all elements `x` in the semigroup, there
+  exists exactly one idempotent of the form `xⁿ` with `n > 1`.
+- Then definite languages are characterized by the equation is
+  `[sx^ω=x^ω]`.
+- We discussed similar equations for the reverse definite and
+  generalized definite classes of languages.
+
+### Tu 14 Apr
+
+- We discussed the Nerode equivalence relation, and explained how the
+  blocks in the partition it induces over Σ* corresponds to the states
+  in the minimal DFSA.
+- We discussed the Myhill equivalence relation, and explained how it
+  is a refinement of the Nerode relation. The blocks here correspond
+  to the elements of the syntactic semigroup. These blocks are
+  well-behaved under concatenation. (The Myhill blocks form a
+  congruence, whereas the Nerode blocks form a left congruence.)
+
 ### Th 09 Apr
 
 - We finished our discussion of minimizaton of DFSA.
