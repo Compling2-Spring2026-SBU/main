@@ -20,6 +20,28 @@
 
 ## Class Log
 
+### Th 07 May
+
+- Student presentations
+
+### Tu 05 May
+
+- We reviewed monoids (and semirings) for generalized deterministic
+  (and non-deterministic) string transducers.
+- We studied transducer composition.
+- Additional optional reading: [Computational
+  Phonology](readings/Chandlee-Heinz-2017-CP.pdf)
+
+### Th 30 Apr
+
+- We finished our discussion of algebraic characterizations of
+  subseqeuntial functions.
+
+### Tu 28 Apr
+
+- We began our discussion of algebraic characterizations of
+  subseqeuntial functions.
+
 ### Tu 21 Apr
 
 - We studies tier-extensions of classes of languages and algrbraic
